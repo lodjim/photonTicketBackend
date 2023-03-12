@@ -3343,3 +3343,6 @@ Not Found: /app-ads.txt
 [12/Mar/2023 15:13:34] "GET /app-ads.txt HTTP/1.1" 404 2605
 Not Found: /app-ads.txt
 [12/Mar/2023 15:13:34] "GET /app-ads.txt HTTP/1.1" 404 2609
+Not Found: /setup-chrome-homepage-startup-page/feed/
+[12/Mar/2023 15:18:17] "GET /setup-chrome-homepage-startup-page/feed/ HTTP/1.1" 404 2692
+[12/Mar/2023 15:23:27] "GET / HTTP/1.1" 302 0
