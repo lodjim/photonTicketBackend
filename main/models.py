@@ -10,3 +10,5 @@ class Person(models.Model):
     filiere = models.CharField(max_length=4,choices=list_of_filiere)
     token = models.CharField(max_length=300)
     is_scanned = models.BooleanField(default=False)
+    def __str__(self):
+        return self.prenom+" "+self.nom
